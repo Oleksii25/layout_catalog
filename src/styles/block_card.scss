@@ -34,14 +34,13 @@
     display: flex;
     width: 160px;
     margin: 13px auto 42px;
-    transition-duration: 0.4s;
     justify-content: center;
   }
 
   &__photo {
     width: 168px;
     height: 138px;
-    transition-duration: 0.4s;
+    transition:transform 0.4s;
     padding: 19px 13px 0;
 
     &:hover {
