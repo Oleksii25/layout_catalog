@@ -29,6 +29,7 @@
     padding: 23px 0;
     text-align: center;
     width: 100%;
+    transition-duration: 0.4s;
 
     &--is-active {
       color: $color-primary;
